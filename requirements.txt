@@ -1,0 +1,4 @@
+requests~=2.27.1
+beautifulsoup4~=4.11.1
+mysql~=0.0.3
+openpyxl~=3.0.10
